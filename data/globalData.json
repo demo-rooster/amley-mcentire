@@ -1,77 +1,82 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "Amley McEntire Orthodontics",
+  "domain": "https://www.amley-mcentire.com",
+  "email": "info@amley-mcentire.com",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "727-381-1062",
+    "href": "tel:+17273811062",
+    "aria": "7 2 7, 3 8 1, 1 0 6 2"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "St. Petersburg",
       "address": {
-        "street": "9650 Main Street",
+        "street": "5753 1st Ave N",
         "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "city_state": "St. Petersburg, FL 33710",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "-82.7115197",
+          "latitude": "27.7718443"
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "727-381-1062",
+        "href": "tel:+17273811062"
       },
-      "email": "info@mandtortho.com",
+      "email": "info@amley-mcentire.com",
       "hours": [
         {
-          "day": "Monday",
-          "time": "8:30 am \t6:30 pm"
+          "day": "Mon - Thu",
+          "time": "8:00 a.m. - 5:00 p.m."
         },
         {
-          "day": "Tuesday",
-          "time": "8:30 am \t6:30 pm"
+          "day": "Fri",
+          "time": "8:00 a.m. - 12:00 p.m."
         },
         {
-          "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
-        },
-        {
-          "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
-        },
-        {
-          "day": "Friday",
-          "time": "8:00 am \t11:30 am"
+          "day": "Sat - Sun",
+          "time": "Closed"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
+        "href": "https://www.google.com/maps/search/?api=1&query=5753+1st+Ave+N+St.+Petersburg+FL+33710",
         "label": "Get Directions"
       },
-      "special_note": ""
+      "special_note": "Free parking available at the St. Petersburg location."
     },
     {
-      "title": "Tonawanda Office",
+      "title": "South Tampa",
       "address": {
-        "street": "1077 Delaware Rd",
-        "suite": "",
-        "city_state": "Tonawanda, NY 14223",
+        "street": "110 South MacDill Ave",
+        "suite": "Suite 201",
+        "city_state": "Tampa, FL 33609",
         "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
+          "longitude": "",
+          "latitude": ""
         }
       },
       "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
+        "number": "813-497-7441",
+        "href": "tel:+18134977441"
       },
-      "email": "info@mandtortho.com",
-      "hours": [],
+      "email": "info@amley-mcentire.com",
+      "hours": [
+        {
+          "day": "Mon - Thu",
+          "time": "8:00 a.m. - 5:00 p.m."
+        },
+        {
+          "day": "Fri",
+          "time": "8:00 a.m. - 12:00 p.m."
+        },
+        {
+          "day": "Sat - Sun",
+          "time": "Closed"
+        }
+      ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
+        "href": "https://www.google.com/maps/search/?api=1&query=110+South+MacDill+Ave+Suite+201+Tampa+FL+33609",
         "label": "Get Directions"
       },
       "special_note": ""
@@ -94,28 +99,28 @@
     "content_alignment": "right",
     "links": [
       {
-        "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
+        "icon": "tooth-two-v2",
+        "text": "5753 1st Ave N, St. Petersburg, FL 33710",
+        "href": "https://www.google.com/maps/search/?api=1&query=5753+1st+Ave+N+St.+Petersburg+FL+33710",
+        "label": "View 5753 1st Ave N, St. Petersburg, FL 33710 on google maps",
         "new_window": true
       },
       {
         "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
+        "text": "727-381-1062",
+        "href": "tel:+17273811062",
+        "label": "Call 7 2 7. 3 8 1. 1 0 6 2.",
         "new_window": false
       }
     ],
     "announcement": {
       "icon": "tooth-two-v2",
-      "label": "",
-      "text": "",
-      "mobile_text": "",
+      "label": "Free Consultation",
+      "text": "Schedule your complimentary consultation — in-office or virtually.",
+      "mobile_text": "Free Consultation",
       "modal": {
-        "title": "",
-        "text": ""
+        "title": "Free Consultation",
+        "text": "The first consultation at Amley McEntire Orthodontics is complimentary. You can visit either our St. Petersburg or South Tampa office, or request a virtual consultation through our site."
       }
     }
   },
@@ -129,8 +134,8 @@
           "label": "Schedule Consultation",
           "aria_label": "Schedule a consultation",
           "href": "",
-          "path": "/contact",
-          "hash": "#form",
+          "path": "/schedule-appointment/",
+          "hash": "",
           "external": false,
           "include_icon": true,
           "icon": "tooth-two-v2",
@@ -150,7 +155,19 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
+        "href": "https://www.facebook.com/amleymcentireortho",
+        "icon": "facebook"
+      },
+      {
+        "href": "https://www.instagram.com/amleymcortho",
+        "icon": "instagram"
+      },
+      {
+        "href": "https://x.com/AmleyO",
+        "icon": "twitter"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=v_2aHchY-4g",
         "icon": "youtube"
       }
     ],
@@ -158,12 +175,12 @@
   },
   "enable_popup": false,
   "popup": {
-    "title": "",
-    "text": "",
+    "title": "Welcome to Amley McEntire Orthodontics",
+    "text": "Family-focused, board-certified orthodontics serving Tampa Bay from St. Petersburg and South Tampa. Learn about our complimentary consultation and virtual options.",
     "image": {
-      "src": "",
+      "src": "https://www.amley-mcentire.com/wp-content/uploads/2024/09/Amley-McEntire-Orthodontics-logo.svg",
       "webp": "",
-      "alt": "",
+      "alt": "Amley McEntire Orthodontics logo",
       "aria_hidden": false,
       "bgColor": "",
       "imageBackground": false,
@@ -171,7 +188,9 @@
       "objectPosition": "",
       "forceAlt": "",
       "loading_mask": "",
-      "image_selection_hints": null
+      "image_selection_hints": {
+        "context_category": "About Hero"
+      }
     }
   }
 }
